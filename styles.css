@@ -86,10 +86,10 @@ li h3 {
 li p {
     width:85%;
     margin: auto;
-     text-align: justify;
-  -webkit-hyphens: auto;
+    text-align: justify;
+    -webkit-hyphens: auto;
     -moz-hyphens: auto;
-  hyphens: auto;
+    hyphens: auto;
     letter-spacing: .2em;
 }
 
@@ -107,7 +107,7 @@ li .links {
 
 li a {
     text-decoration: none;
-    margin: 20px 5px;
+    margin: 20px 5px 10px 5px;
     padding: .125em;
     height: min-content;
 }
