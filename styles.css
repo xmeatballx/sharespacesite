@@ -86,8 +86,11 @@ li h3 {
 li p {
     width:85%;
     margin: auto;
-    text-align: justify;
-    letter-spacing: .1em;
+     text-align: justify;
+  -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+  hyphens: auto;
+    letter-spacing: .2em;
 }
 
 li img {
