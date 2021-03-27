@@ -130,3 +130,13 @@ li a:active {
     /* font-size: 90%; */
     line-height: 1.25em;
 }
+
+@media only screen and (max-width: 900px) {
+    ul {
+        flex-direction: column;
+    }
+
+    li {
+        margin: 10px 10px;
+    }
+}
