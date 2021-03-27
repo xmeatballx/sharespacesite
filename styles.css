@@ -134,6 +134,8 @@ li a:active {
 @media only screen and (max-width: 900px) {
     ul {
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
     li {
