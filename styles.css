@@ -76,6 +76,7 @@ li {
     width: 250px;
     background: rgba(250,150,0,.1);
     border-radius: 5px;
+    margin: 0 10px;
 }
 
 li h3 {
@@ -123,4 +124,9 @@ li a:hover {
 }
 li a:active {
     color: lightgray;
+}
+
+#phonetext {
+    /* font-size: 90%; */
+    line-height: 1.25em;
 }
